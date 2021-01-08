@@ -6,6 +6,6 @@
 
 [ThingSpeak test channel](https://thingspeak.com/channels/1223435/private_show "ThingSpeak test channel")
 
-tags.a b 
-Eg:a b c
+Introduce a __ character at end of each line. _ acts as a blank space
+Introduce b __ character at end of each line. _ acts as a blank space
 
