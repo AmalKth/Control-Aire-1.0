@@ -1,0 +1,56 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=PCB_klar 5
+*Date=11:37:14
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;43.4923;-37.1574;180;Bottom;Part3
+2;;;47.2947;-16.8247;0;Bottom;Copper Fill23
+3;;THT;48.5723;-70.1776;0;Bottom;J6
+4;1k;1206 [SMD];40.9521;-60.2976;-90;Top;R1
+5;;;40.2337;-48.6509;0;Bottom;Copper Fill18
+6;;;46.5073;-55.8391;0;Bottom;Copper Fill17
+7;;THT;82.8623;-33.3474;-90;Bottom;J8
+8;1k;1206 [SMD];61.2724;-19.6574;-90;Top;R5
+9;;;72.7455;-29.6263;0;Bottom;Copper Fill22
+10;;;20.9697;-66.7491;0;Bottom;TXT2
+11;1k;1206 [SMD];46.0321;-60.2976;-90;Top;R3
+12;;;86.6235;-28.1701;90;Bottom;TXT3
+13;;;55.964;-73.524;0;Bottom;TXT3
+14;;;43.9673;-55.8391;0;Bottom;Copper Fill16
+15;1k;1206 [SMD];62.2622;-13.0275;180;Top;R7
+16;;;40.4115;-55.8391;0;Bottom;Copper Fill15
+17;;;86.3317;-33.328;90;Bottom;TXT3
+18;;;27.8639;-48.7779;0;Bottom;Copper Fill20
+19;;;42.2149;-65.5672;0;Bottom;Copper Fill12
+20;;;42.2537;-29.5374;0;Bottom;Part2
+21;;;44.2213;-38.1098;0;Bottom;Copper Fill24
+22;;;47.1346;-16.8243;90;Bottom;U2
+23;;;58.8879;-73.6176;0;Bottom;TXT3
+24;;THT;46.0323;-70.1776;0;Bottom;J2
+25;;;20.5322;-69.5258;0;Bottom;TXT1
+26;;;16.7539;-20.6151;-90;Bottom;ZS-042 RTC2
+27;;THT;56.1923;-70.1776;0;Bottom;J5
+28;;;25.2221;-48.7779;0;Bottom;Copper Fill19
+29;1k;1206 [SMD];48.5721;-60.2976;-90;Top;R4
+30;;THT;43.4923;-70.1776;0;Bottom;J3
+31;;;47.2949;-65.5672;0;Bottom;Copper Fill14
+32;;;4.01446;-68.0434;0;Bottom;IMG1
+33;;THT;58.7323;-70.1776;0;Bottom;J4
+34;1k;1206 [SMD];54.6421;-13.0274;90;Top;R6
+35;10k;1206 [SMD];40.9521;-17.1174;-90;Top;R8
+36;;;72.7455;-32.1663;0;Bottom;Copper Fill21
+37;;THT;82.8623;-38.4274;90;Bottom;J7
+38;;;44.7549;-65.5672;0;Bottom;Copper Fill13
+39;;THT;82.8623;-28.2674;-90;Bottom;J9
+40;1k;1206 [SMD];43.4921;-60.2976;-90;Top;R2
+41;;THT;40.9523;-70.1776;0;Bottom;J1
