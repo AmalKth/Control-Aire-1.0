@@ -6,8 +6,7 @@
 <br /> 
 
  ##### The parts needed for this project to be constructed are the following: #####
- ### 1. TFT ili9340: ###
-###### This is the screen on which the readings will be seen. ######
+ ###### 1. TFT ili9340: This is the screen on which the readings will be seen ######
  <br /> 
  
  <br />
