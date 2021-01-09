@@ -20,8 +20,11 @@
  ##### Wi-Fi module Esp8266 esp-01 : This small module allows Arduino to connect to Wi-Fi networks and make simple TCP / IP connections with Hayes-style commands / AT commands as it sends sensor data to our channel in the ThingSpeak website.
   [Datasheet](http://www.microchip.ua/wireless/esp01.pdf)
   <br />
+  [User guide for Wi-Fi microchip](http://www.microchip.ua/wireless/esp01.pdf)
+  <br />
+  [An easy-to-use Arduino ESP8266 library besed on AT firmware](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266)
+  <br />
   [Our test channel in ThingSpeak with sensor measurements for two months](https://thingspeak.com/channels/1223435/private_show)
-
   <br />
   
 
