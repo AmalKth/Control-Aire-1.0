@@ -7,13 +7,15 @@
  ##### The parts needed for this project to be constructed are the following: #####
  ##### 1. TFT ili9340: This LCD contributes to user-friendly readings and has many functions that can be used and programmed.
  [TFT Display adafruit Overview ](https://learn.adafruit.com/2-2-tft-display/overview)
+  <br /> 
  [Arduino cod and wairing for LCD](https://learn.adafruit.com/2-2-tft-display?view=all)
+  <br /> 
  [Datasheet](https://cdn-shop.adafruit.com/datasheets/ILI9340.pdf)
  <br /> 
 #####  2. BME680 : This is a sensor for temperature, humidity, pressure, altitude and gas measurements. #####
  [Datasheet](https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf)
+  <br /> 
  [Adafruit BME680 Overview and Wiring](https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf)
-
  <br /> 
  
  <br />
