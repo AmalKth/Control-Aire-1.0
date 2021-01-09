@@ -14,6 +14,8 @@
  [Guide to Interfacing TFT LCD Displays with Arduino](https://www.instructables.com/Absolute-Beginners-Guide-to-TFT-LCD-Displays-by-Ar/)
  <br /> 
  [Arduino code and wairing for LCD](https://learn.adafruit.com/2-2-tft-display?view=all)
+ <br />
+ [Adafruit learning system for 2.2 TFT LCD pdf](https://cdn-learn.adafruit.com/downloads/pdf/2-2-tft-display.pdf)
 
 #####  3. BME680 : This is a sensor for temperature, humidity, pressure, altitude and gas measurements. #####
  [Datasheet](https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf)
