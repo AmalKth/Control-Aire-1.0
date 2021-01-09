@@ -15,12 +15,12 @@
 #####  2. BME680 : This is a sensor for temperature, humidity, pressure, altitude and gas measurements. #####
  [Datasheet](https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf)
   <br /> 
- [Adafruit BME680 Overview and Wiring](https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf)
+ [Adafruit BME680 Overview and Wiring](https://learn.adafruit.com/adafruit-bme680-humidity-temperature-barometic-pressure-voc-gas)
  
  ##### 3. Wi-Fi module Esp8266 esp-01 : This small module allows Arduino to connect to Wi-Fi networks and make simple TCP / IP connections with Hayes-style commands / AT commands as it sends sensor data to our channel in the ThingSpeak website.
   [Datasheet](http://www.microchip.ua/wireless/esp01.pdf)
   <br />
-  [User guide for Wi-Fi microchip](http://www.microchip.ua/wireless/esp01.pdf)
+  [User guide for Wi-Fi microchip](https://www.itead.cc/wiki/ESP8266_Serial_WIFI_Module)
   <br />
   [An easy-to-use Arduino ESP8266 library besed on AT firmware](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266)
   <br />
