@@ -4,7 +4,7 @@
 
 [ThingSpeak channel for Control Aire 1.0](https://thingspeak.com/channels/1222961/private_show)
 <br /> 
- #### The parts needed for this project to be constructed are the following: ####
+ #### The parts/components needed for this project to be constructed are the following: ####
  ##### 1. Arduino UNO #####
  ##### 2. TFT ili9340: This LCD contributes to user-friendly readings and has many functions that can be used and programmed.
  [Datasheet](https://cdn-shop.adafruit.com/datasheets/ILI9340.pdf)
