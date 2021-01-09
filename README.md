@@ -6,15 +6,12 @@
  ######
  <br /> 
  
-[ThingSpeak for Control Aire 1.0 channel](https://thingspeak.com/channels/1222961/private_show "ThingSpeak test channel")
+[ThingSpeak for Control Aire 1.0 channel](https://thingspeak.com/channels/1222961/private_show)
 
 <br />
-1. https://thingspeak.com/channels/1222961/private_show
 
 
 [ThingSpeak test channel](https://thingspeak.com/channels/1223435/private_show "ThingSpeak test channel")
 
-a <br />
-b <br />
-c
+
 
