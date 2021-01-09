@@ -4,7 +4,6 @@
 
 [ThingSpeak channel for Control Aire 1.0](https://thingspeak.com/channels/1222961/private_show)
 <br /> 
-
  ##### The parts needed for this project to be constructed are the following: #####
  ##### 1. TFT ili9340: This is the screen on which the readings will be seen #####
  <br /> 
