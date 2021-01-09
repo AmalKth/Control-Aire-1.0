@@ -29,7 +29,7 @@
 ##### 4. PIR sensor : (motion sensor) // This sensor detects movement in the environment up to 7 m away at a 120 degree angle. After motion is detected, measured values will be displayed on the LCD. #####
 [Datasheet](https://cdn-learn.adafruit.com/downloads/pdf/pir-passive-infrared-proximity-motion-sensor.pdf)
  <br />
- [PIR Motion Sensor Adafruit overview and wairing](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview)
+ [Adafruit overview and wairing](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview)
 #####
 
 
